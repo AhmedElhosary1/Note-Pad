@@ -2,7 +2,7 @@
 A simple note pad applicaction for windows 
 
 ## description
-A c# desktop application for windows.
+A desktop application for windows made in C# and GUNA framework
 
 ### Functionalities:
     1. write and read any text file.
