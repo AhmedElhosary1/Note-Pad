@@ -1,0 +1,12 @@
+E:\Web Projects\NotePad\NotePad\bin\Debug\NotePad.exe.config
+E:\Web Projects\NotePad\NotePad\bin\Debug\NotePad.exe
+E:\Web Projects\NotePad\NotePad\bin\Debug\NotePad.pdb
+E:\Web Projects\NotePad\NotePad\bin\Debug\Guna.UI.dll
+E:\Web Projects\NotePad\NotePad\obj\Debug\NotePad.csproj.AssemblyReference.cache
+E:\Web Projects\NotePad\NotePad\obj\Debug\NotePad.NotePadMain.resources
+E:\Web Projects\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+E:\Web Projects\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.cache
+E:\Web Projects\NotePad\NotePad\obj\Debug\NotePad.csproj.CoreCompileInputs.cache
+E:\Web Projects\NotePad\NotePad\obj\Debug\NotePad.csproj.Up2Date
+E:\Web Projects\NotePad\NotePad\obj\Debug\NotePad.exe
+E:\Web Projects\NotePad\NotePad\obj\Debug\NotePad.pdb
